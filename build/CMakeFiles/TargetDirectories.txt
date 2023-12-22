@@ -1,0 +1,10 @@
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/gtest/CMakeFiles/gtest.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/stack/CMakeFiles/stack.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/stack_main/CMakeFiles/stack_main.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/stack_test/CMakeFiles/stack_test.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/postfix/CMakeFiles/postfix.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/postfix_main/CMakeFiles/postfix_main.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/postfix_test/CMakeFiles/postfix_test.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/build/form/CMakeFiles/form.dir

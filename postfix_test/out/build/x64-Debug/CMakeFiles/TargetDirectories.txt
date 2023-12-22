@@ -1,0 +1,3 @@
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/postfix_test/out/build/x64-Debug/CMakeFiles/C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/postfix_test/postfix_test.cpp.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/postfix_test/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Visual Studio 2022/laba3_postfix/postfix_test/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
